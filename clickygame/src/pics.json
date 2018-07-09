@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "flag": "Colorado",
+      "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/flagofColoradoCO.jpg"
+  
+    },
+    {
+      "id": 2,
+      "flag": "California",
+      "image": "https://www.50states.com/flag/image/nunst0006.gif"
+      
+    },
+    {
+      "id": 3,
+      "flag": "Alaska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/250px-Flag_of_Alaska.svg.png"
+      
+    },
+    {
+      "id": 4,
+      "flag": "Florida",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/250px-Flag_of_Florida.svg.png"
+  
+    },
+    {
+      "id": 5,
+      "flag": "Georgia",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423"
+      
+    },
+    {
+      "id": 6,
+      "flag": "Hawaii",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/250px-Flag_of_Hawaii.svg.png"
+    
+    },
+    {
+      "id": 7,
+      "flag": "Illinois",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/250px-Flag_of_Illinois.svg.png"
+    
+    },
+    {
+      "id": 8,
+      "flag": "Louisana",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/250px-Flag_of_Louisiana.svg.png"
+      
+    },
+    {
+      "id": 9,
+      "flag": "Maryland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/250px-Flag_of_Maryland.svg.png"
+     
+    },
+    {
+      "id": 10,
+      "flag": "Nevada",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/250px-Flag_of_Nevada.svg.png"
+      
+    },
+    {
+      "id": 11,
+      "flag": "New York",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/250px-Flag_of_New_York.svg.png"
+    
+    },
+    {
+      "id": 12,
+      "flag": "Texas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/250px-Flag_of_Texas.svg.png"
+    }
+  ]
+  
