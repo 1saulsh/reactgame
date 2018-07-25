@@ -1,20 +1,20 @@
 import React, { Component } from 'react';
 import StateCard from "./components/StateCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import Header from "./Header/Header";
 import flag from "./pics.json";
 import './App.css';
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+  // Setting this.state.flag to the flag json array
   state = {
     flag
   };
 
-  removeFlags = id => {
-    // Filter this.state.friends for friends with an id not equal to the id being removed
+  removeFlag = id => {
+    // Filter this.state.flag for flag with an id not equal to the id being removed
     const flag = this.state.flag.filter(flag => flag.id !== id);
-    // Set this.state.friends equal to the new friends array
+    // Set this.state.flag equal to the new flag array
     this.setState({ flag });
   };
   render() {

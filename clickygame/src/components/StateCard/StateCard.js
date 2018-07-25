@@ -3,21 +3,11 @@ import React from "react";
 import "./StateCard.css";
 
 const StateCard = props => (
-  <div className="card">
-    <div className="img-container">
-      <img alt={props.flag} src={props.image} />
-    </div>
-    <div className="content">
-      <ul>
-        <li>
-          <strong>State:</strong> {props.flag}
-        </li>
-      </ul>
-    </div>
-    <span onClick={() => props.removeState(props.id)} className="remove">
-      𝘅
-    </span>
+  <div className="click-item neutral" onCLick = {() => {props.increment(props.id);props.shuffle(props.id); }}>
+    
+    <img className="flag-image" alt={props.name} src={props.image} />
   </div>
+    
 );
-
+//eport default: statecard
 export default StateCard;
